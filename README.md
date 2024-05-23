@@ -9,6 +9,8 @@ The Cafe Management System is a versatile and comprehensive software solution de
 # Student Module
 This module is designed to cater to the needs of student users, providing functionalities based on their account status.
 
+![Cafe Logo](img%202.png)
+
 # Account Holder
 # Profile Management:
 
@@ -46,6 +48,9 @@ The manager module is designed to provide tools and functionalities for effectiv
 
 Oversee and process customer orders.
 Manage order queues and prioritize tasks.
+
+![Cafe Logo](img%201.png)
+
 # Inventory Management:
 
 Track and manage inventory levels.
