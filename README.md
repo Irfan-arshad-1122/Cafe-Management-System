@@ -3,7 +3,7 @@
 # Overview
 The Cafe Management System is a versatile and comprehensive software solution designed to enhance the efficiency of cafe operations. It features dedicated modules for students and managers, providing specific functionalities to meet their distinct needs. Students are further categorized into account holders and non-account holders, each with tailored features to optimize their experience.
 
-![Cafe Logo](img% 3.png)
+![Cafe Logo](img%203.png)
 
 ## Modules
 # Student Module
